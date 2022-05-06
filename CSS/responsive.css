@@ -1,0 +1,28 @@
+@media (max-width:845px){
+   .top2 .topleft ul li {
+       display: none;
+   }
+   .header-content nav li{
+    display: none;
+}
+}
+@media (max-width:844px){
+    .header-content .menu{
+        display: block;
+        font-size: 35px;
+        
+    }
+    .banner1 .banner1-left{
+        display: none;
+        justify-content: center;
+    }
+}
+@media (max-width:550px){
+    .top2 .topright ul li {
+     font-size: 16px;
+    }
+    .top2 .topleft{
+        margin-left: 0px;
+        /* border: 2px solid red; */
+    }
+ }
